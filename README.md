@@ -8,3 +8,9 @@ Elementos de apoio a QGIS3 e Sistemas de Informação Geográfica elaborados no 
 ## Link para canal youtube onde as resolução dos exercícios estão disponíveis
 
 [Canal Youtube](https://www.youtube.com/channel/UCUCqRyuduyzHxYYY_g_m-kw)
+
+## Dados para os exercícios
+
+### Secção 1: Introdução a QGIS3
+### Secção 2
+...
