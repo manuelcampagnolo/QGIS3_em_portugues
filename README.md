@@ -3,4 +3,6 @@ Elementos de apoio a QGIS3 e Sistemas de Informação Geográfica elaborados no 
 
 ## Caderno de Apoio às Aulas Práticas de Sistemas de Informação Geográfica
 
+[PDF:](https://github.com/manuelcampagnolo/QGIS3_em_portugues/blob/main/Caderno-aulas-praticas-qgis3_26abr2022.pdf)
+
 ## Link para canal youtube onde as resolução dos exercícios estão disponíveis
