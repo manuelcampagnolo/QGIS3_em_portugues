@@ -9,8 +9,14 @@ Elementos de apoio a QGIS3 e Sistemas de Informação Geográfica elaborados no 
 
 [Canal Youtube](https://www.youtube.com/channel/UCUCqRyuduyzHxYYY_g_m-kw)
 
+### Script python para Seccao 1.B.1: Primeiro exemplo de script de Python em QGIS, 'processing.run' e 'History'
+
+### Script python para Seccao 1.B.2: Script Python para criar legenda quantivativa e colocar de etiquetas na layer em QGIS 3
+
+### Script python para Seccao 1.B.3: Script Python para criar legenda qualitativa com cores aleatórias ("random colors")
+
 ## Dados para os exercícios
 
 ### Secção 1: Introdução a QGIS3
-### Secção 2
+### Secção 2: 
 ...
