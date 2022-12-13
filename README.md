@@ -30,6 +30,6 @@ Elementos de apoio a QGIS3 e Sistemas de Informação Geográfica elaborados no 
 ### Secção 3
 
 - [Carta dos Solos/DGADR](https://snisolos.dgadr.gov.pt/downloads)
-- [Dados OpenStreetMap para Portugal: Download](https://download.geofabrik.de/europe/portugal.html)
+- Rede estradas (roads), linhas de água (waterways), uso do solo (landuse), etc [Dados OpenStreetMap para Portugal](https://download.geofabrik.de/europe/portugal.html)
 - CAOP: Carta Administrativa Oficial de Portugal -- ver [Rede Nacional de dados geográficos/SNIG](https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/home)
 - COS: Carta de Uso e Ocupação do Solo -- ver [Rede Nacional de dados geográficos/SNIG](https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/home)
