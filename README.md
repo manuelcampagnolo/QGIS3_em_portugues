@@ -1,4 +1,4 @@
-# QGIS3_em_portugues
+# QGIS3emportugues
 Elementos de apoio a QGIS3 e Sistemas de Informação Geográfica elaborados no quadro do ensino nas licenciaturas do ISA/ULisboa
 
 ---
