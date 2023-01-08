@@ -2,7 +2,7 @@
 
 ## Elementos de apoio a QGIS3 e Sistemas de Informação Geográfica elaborados no quadro do ensino nas licenciaturas do ISA/ULisboa
 
-[Link para isa-ulisboa/SIG] (https://github.com/isa-ulisboa/sig)
+[Link para isa-ulisboa/SIG](https://github.com/isa-ulisboa/sig)
 
 
 ## Link para canal Youtube **QGIS3 em português**
