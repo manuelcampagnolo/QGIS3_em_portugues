@@ -2,7 +2,7 @@
 
 ## [Elementos de apoio a QGIS3 e Sistemas de Informação Geográfica elaborados no quadro do ensino nas licenciaturas do ISA/ULisboa](https://github.com/isa-ulisboa/sig)
 
-## [Link para canal Youtube "QGIS3 em português"] (https://www.youtube.com/channel/UCUCqRyuduyzHxYYY_g_m-kw)
+## [Link para canal Youtube "QGIS3 em português"](https://www.youtube.com/channel/UCUCqRyuduyzHxYYY_g_m-kw)
 
 <!--  comments
 ### Script python para Seccao 1.B.1: Primeiro exemplo de script de Python em QGIS, 'processing.run' e 'History'
